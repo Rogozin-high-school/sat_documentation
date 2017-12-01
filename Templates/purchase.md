@@ -20,3 +20,13 @@ This document is used to document an order of an item. Please file this document
 ## Technical details
 
 _[ Enter here any details that might be useful (Catalogue ID, Manufacturer, etc) ]_
+
+## Report
+
+**Reported by** _[ Enter the name of the author of this document ]_ 
+
+<hr>
+
+<sup>1</sup> Comment here
+<br/>
+<sup>2</sup> Another comment here

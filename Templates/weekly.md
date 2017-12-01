@@ -24,3 +24,9 @@ _[ Insert the goals for the next week ]_
 3. Another thing is ...
 
 **Reported by** _[ Enter the name of the author of this document ]_ 
+
+<hr>
+
+<sup>1</sup> Comment here
+<br/>
+<sup>2</sup> Another comment here
