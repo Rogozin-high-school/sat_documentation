@@ -1,5 +1,9 @@
 # Weekly Progress Report
 
+This document is used to describe a weekly progress for a team. File it every week, before the meeting.
+
+## General
+
 **Team Name**: _[ Enter team name ]_
 <br/>
 **Date**: _[ DD/MM/YYYY ]_
