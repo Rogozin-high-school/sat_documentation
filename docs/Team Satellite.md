@@ -8,5 +8,4 @@ Design Satellite Shielding | 2  | ?
 Build The Magnetotorquer | 5  | ?
 Write A Module For Magnetotorquer - Power Supply | 2  | ?
 Buy Magnetotorquer Power Supply | 2  | ?
-Fix SMS (Satellite Monitoring System) | 1 | Ron
-Configure Remote Control On The RPI | 1 | Ron
+Write & Configure Remote Control Software | 2 | Ron
