@@ -3,7 +3,7 @@ In this table we will document our goals for the next couple of months.
 
 What | When (Weeks) | Who  
 --- | --- | ---
-Design Satellite Shielding | 2  | Osher (?)
+Design Satellite Shielding | 2  | Osher
 3D Print Satellite Shielding | 3  | ?
 Wrap MagnetoTorquer Coils | 6  | ?
 Order MagnetoTorquer PSU | 2  | ?
