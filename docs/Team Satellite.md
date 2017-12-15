@@ -1,14 +1,14 @@
 # Goals Table
 In this table we will document our goals for the next couple of months.  
 
-What | When (Weeks) | Who  
+What | When | Who  
 --- | --- | ---
-Design Satellite Shielding | 2  | Osher
-3D Print Satellite Shielding | 3  | ?
-Wrap MagnetoTorquer Coils | 6  | ?
-Order MagnetoTorquer PSU | 2  | ?
-Write PSU Software | 3  | ?
-Configure & Write Remote Control Software | 3 | Ron
+Design Satellite Shielding | ww52  | Osher
+3D Print Satellite Shielding | ww1  | ?
+Wrap MagnetoTorquer Coils | ww4  | ?
+Order MagnetoTorquer PSU | ww52  | ?
+Write PSU Software | ww1  | ?
+Configure & Write Remote Control Software | ww1 | Ron
 
 ---
 
