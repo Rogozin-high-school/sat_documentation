@@ -5,7 +5,7 @@ In this table we will document our goals for the next couple of months.
 
 What | When | Who  
 --- | --- | ---
-Design Satellite Shielding | ww52  | Osher
+Design Satellite Shielding | ww52  | ?
 3D Print Satellite Shielding | ww1  | ?
 Wrap MagnetoTorquer Coils | ww4  | ?
 Order MagnetoTorquer PSU | ww52  | ?
