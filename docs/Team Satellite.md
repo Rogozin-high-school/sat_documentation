@@ -8,7 +8,7 @@ Design Satellite Shielding | 2  | Osher
 Wrap MagnetoTorquer Coils | 6  | ?
 Order MagnetoTorquer PSU | 2  | ?
 Write PSU Software | 3  | ?
-Configure & Write Remote Control Software | 3 | Ron
+Configure & Write Remote Control Software | 3 | Ron & Shai
 
 ---
 
