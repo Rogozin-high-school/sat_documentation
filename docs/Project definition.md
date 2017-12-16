@@ -12,7 +12,7 @@ The system that detects the satellite's orientation in space, relative to the ma
 1. Wiring of the sensor.
 2. Adding the sensor to the 3D design of the satellite.
 
-## Magnetotorquers
+## Magnetorquers
 The devices that exerts torque on the satellite using the magnetic field.
 
 ### Software
@@ -22,13 +22,15 @@ The devices that exerts torque on the satellite using the magnetic field.
 ### Hardware
 1. Enwrapping the torquers.
 2. Inserting the torquers to the 3D design of the satellite.
-3. Connecting the torquers to bidirectional power supplies.
-4. Wiring the power supply to the Raspberry Pi.
+3. Get bidirectional power supplies.
+4. Connecting the torquers to bidirectional power supplies.
+5. Wiring the power supply to the Raspberry Pi.
 
 ## Satellite Computer Module (SCM)
+The system that will allow us to monitor and control the onboard equipment.
 
 ### Software
-
-### Hardware
+1. Implement the get commands that will allow us to control the magnetorquers.
+2. Make a pretty ui for controlling the magnetorquers.
 
 ... (Todo - continue this document)
