@@ -5,12 +5,13 @@ In this table we will document our goals for the next couple of months.
 
 What | When | Who  
 --- | --- | ---
-Design Satellite Shielding | ww51  | ?
-3D Print Satellite Shielding | ww52  | Ron
-Wrap MagnetoTorquer Coils | ww1  | ?
-Buy MagnetoTorquer PSU | ww52  | ?
-Write PSU Software | ww1  | ?
-Configure & Write Remote Control Software | ww52 | Ron
+Design Satellite Shielding | ww1  | Osher
+3D Print Satellite Shielding | ww3  | Ron
+Build Magnetoruqer Circtuit | ww4  | ?
+Write PSU Software | ww3  | ?
+Configure & Write Remote Control Software | ww1 | Ron
+Wrap MagnetoTorquer Coils | ww4  | ?
+
 
 You can find the time chart with the planned schedule [here](https://docs.google.com/spreadsheets/d/1oXeisXPx-PZ4B5ECL2sPKPzZbInUXwscRA2_JHeT6BA/edit?usp=sharing).
 
