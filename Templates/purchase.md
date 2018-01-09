@@ -17,6 +17,10 @@ This document is used to document an order of an item. Please file this document
 
 **Price**: _[ Price of the item ]_
 
+## Source
+
+_[ Enter here any links for ordering, manufacturer website links, store addresses or postal codes. Anything that might be helpful to find a seller for the product to order from. ]_
+
 ## Technical details
 
 _[ Enter here any details that might be useful (Catalogue ID, Manufacturer, etc) ]_
