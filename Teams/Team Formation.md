@@ -34,4 +34,8 @@
 *Executive owner*: Ron Popov
 
 *Team*:
-+ Please fill, Ron
++ Osher gedaliyahu
++ Omri
++ Eilon
++ Ronen
++ Eldar
