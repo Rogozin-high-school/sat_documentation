@@ -29,7 +29,8 @@
 *Executive owner*: Shai Kimhi
 
 *Team*:
-+ Please fill, Shai
+Maor Gershman
+Nir Pisahov
 
 ### Hardware Research Team Satellite (HRTS)
 
