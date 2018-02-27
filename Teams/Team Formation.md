@@ -20,7 +20,9 @@
 *Executive owner*: Koren Sanger
 
 *Team*:
-+ Please fill, Koren
++ Albert Whatchamacallit
++ Shelly Kalfa
++ Michal Segalovits
 
 ### Satellite Team (ST)
 
