@@ -4,8 +4,7 @@ This document is used to describe a weekly progress for a team. File it every we
 
 ## General
 
-**Team Name**: _[ Enter team name ]_
-<br/>
+**Team Name**: _[ Enter team name ]_  
 **Date**: _[ DD/MM/YYYY ]_
 
 ## Achievements
