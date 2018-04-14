@@ -1,4 +1,4 @@
-# Weekly Progress report
+# Weekly Progress Report
 
 This is the official report of the sattellite team for the 14th work week.
 
